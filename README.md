@@ -5,28 +5,30 @@
 
 ## 🇸🇦 سياسة الخصوصية (العربية)
 
-**آخر تحديث:** 14 يناير 2026
+**آخر تحديث:** 4 أكتوبر 2026
 
 ### مقدمة
 
-مرحباً بك في تطبيق "ضياء القلب". نحن نحترم خصوصيتك ونلتزم بحماية بياناتك الشخصية. توضح سياسة الخصوصية هذه كيفية جمع واستخدام المعلومات عند استخدامك للتطبيق.
+مرحباً بك في تطبيق "ضياء القلب". نحن نحترم خصوصيتك ونلتزم بحماية بياناتك. توضح هذه السياسة ما يستخدمه التطبيق من معلومات ولماذا. باختصار: **لا حسابات، لا إعلانات، لا أدوات تتبّع أو تحليلات، ولا نملك خوادم تُرسل إليها بياناتك.**
 
 ---
 
-### 1. المعلومات التي نجمعها
+### 1. المعلومات التي يستخدمها التطبيق
 
 #### أ) الموقع الجغرافي (التقريبي)
-- **ما نجمعه:** موقعك التقريبي (المدينة/المنطقة)
-- **لماذا:** لحساب أوقات الصلاة الصحيحة واتجاه القبلة
-- **كيف:** نستخدم خدمات الموقع في جهازك
-- **ملاحظة مهمة:** 
-  - لا نجمع الموقع الدقيق (GPS)
-  - لا نخزن موقعك على خوادم خارجية
-  - الموقع يُستخدم محلياً على جهازك فقط
+- **ما نستخدمه:** موقعك التقريبي فقط (إذن الموقع التقريبي على أندرويد)، ولا نطلب الموقع الدقيق.
+- **لماذا:** لحساب مواقيت الصلاة واتجاه القبلة والمسافة إلى مكة.
+- **كيف:** تُحسب المواقيت والقبلة **على جهازك مباشرة** دون إرسال موقعك إلى أي خادم.
+- **اسم المدينة:** يُستخرج اسم مدينتك عبر خدمة الترميز الجغرافي المدمجة في نظام التشغيل (Google على أندرويد، Apple على iOS)، ويخضع ذلك لسياسة خصوصية مزوّد النظام.
+- يُحفظ آخر موقع معروف **على جهازك فقط** حتى تعمل المواقيت دون إنترنت.
 
-#### ب) تفضيلات التطبيق
-- **ما نخزنه:** إعدادات المظهر (فاتح/داكن)، تفضيلات الإشعارات
-- **أين:** مخزنة محلياً على جهازك فقط
+#### ب) مستشعرات الجهاز
+- يستخدم التطبيق **البوصلة ومستشعر الحركة** لعرض اتجاه القبلة فقط. لا تُحفظ قراءات المستشعرات ولا تُرسل إلى أي جهة.
+
+#### ج) تفضيلات التطبيق والمحتوى المحفوظ
+- إعدادات المظهر، إعدادات الأذان والتذكيرات، طريقة حساب المواقيت، القارئ المختار، آخر صفحة في المصحف، عدّاد المسبحة والأذكار.
+- السور التي تختار تنزيلها للاستماع دون إنترنت.
+- كل ذلك **مخزّن محلياً على جهازك فقط**.
 
 ---
 
@@ -34,19 +36,24 @@
 
 | المعلومة | الاستخدام |
 |----------|----------|
-| الموقع التقريبي | حساب أوقات الصلاة واتجاه القبلة |
-| تفضيلات الإشعارات | إرسال تذكيرات الأذكار في الأوقات المحددة |
-| إعدادات المظهر | تذكر تفضيلك للوضع الفاتح أو الداكن |
+| الموقع التقريبي | حساب مواقيت الصلاة واتجاه القبلة على الجهاز |
+| البوصلة ومستشعر الحركة | عرض اتجاه القبلة |
+| إعدادات الأذان والتذكيرات | جدولة الأذان وتذكيرات الأذكار محلياً |
+| المواقيت المحسوبة | عرضها في ودجت الشاشة الرئيسية |
+| السور المنزّلة | الاستماع للقرآن دون إنترنت |
 
 ---
 
-### 3. مشاركة المعلومات مع أطراف ثالثة
+### 3. الخدمات الخارجية
 
-**نحن لا نشارك أي معلومات شخصية مع أي طرف ثالث.**
+**نحن لا نبيع ولا نشارك أي معلومات شخصية مع أي طرف ثالث.**
 
-التطبيق يتصل بالخدمات التالية لأغراض وظيفية فقط:
-- **Aladhan API:** للحصول على أوقات الصلاة (يُرسل الموقع التقريبي فقط)
-- **خوادم mp3quran.net:** لتشغيل تلاوات القرآن الكريم
+يتصل التطبيق بالخدمات التالية لأغراض وظيفية فقط، **ولا يُرسل إليها موقعك أو أي بيانات شخصية**:
+- **mp3quran.net:** لجلب قائمة القرّاء وتشغيل التلاوات وتنزيلها.
+- **متجر التطبيقات (Google Play / App Store):** للتحقق من توفّر إصدار أحدث من التطبيق.
+- **خدمة الترميز الجغرافي في نظام التشغيل:** لمعرفة اسم المدينة كما هو موضّح أعلاه.
+
+كأي اتصال بالإنترنت، قد تطّلع هذه الخدمات على عنوان IP الخاص بجهازك وفق سياساتها.
 
 ---
 
@@ -54,47 +61,58 @@
 
 | الإذن | السبب |
 |------|-------|
-| الموقع التقريبي | لحساب أوقات الصلاة والقبلة |
-| الإنترنت | لجلب أوقات الصلاة وتشغيل الصوت |
-| الإشعارات | لإرسال تذكيرات الأذكار |
-| العمل في الخلفية | لتشغيل القرآن أثناء تصغير التطبيق |
+| الموقع التقريبي | حساب مواقيت الصلاة والقبلة |
+| الإنترنت | تشغيل التلاوات وتنزيلها ومعرفة اسم المدينة |
+| الإشعارات | رفع الأذان وتذكيرات الصلاة والأذكار |
+| التنبيهات الدقيقة | ليُرفع الأذان في وقته تماماً |
+| التشغيل عند إقلاع الجهاز | لإعادة جدولة الأذان بعد إعادة تشغيل الهاتف |
+| العمل في الخلفية / تشغيل الوسائط | لمواصلة الاستماع للقرآن عند تصغير التطبيق |
+| الاهتزاز وإبقاء الجهاز نشطاً | للتنبيهات وتشغيل الصوت دون انقطاع |
+| مستشعر الحركة (iOS) | عرض اتجاه القبلة |
+
+جميع الأذونات اختيارية ويمكنك رفضها أو سحبها في أي وقت من إعدادات الجهاز.
 
 ---
 
 ### 5. تخزين البيانات
 
-- جميع البيانات مخزنة **محلياً على جهازك**
-- لا نستخدم سحابة أو خوادم لتخزين بياناتك
-- يمكنك حذف جميع البيانات بحذف التطبيق
+- جميع البيانات مخزّنة **محلياً على جهازك**.
+- لا نستخدم سحابة أو خوادم لتخزين بياناتك، ولا نطلب تسجيل الدخول.
+- يمكنك حذف السور المنزّلة من داخل التطبيق، وحذف جميع البيانات بحذف التطبيق.
 
 ---
 
 ### 6. أمان البيانات
 
-- التطبيق لا يجمع معلومات حساسة
-- لا نطلب تسجيل دخول أو بيانات شخصية
-- الاتصالات مع الخوادم الخارجية مشفرة (HTTPS)
+- لا يجمع التطبيق معلومات حساسة ولا يطلب بيانات شخصية.
+- الاتصالات بالخدمات الخارجية مشفّرة (HTTPS).
 
 ---
 
-### 7. حقوقك
+### 7. خصوصية الأطفال
+
+التطبيق مناسب لجميع الأعمار ولا يجمع عن قصد أي معلومات شخصية من أي مستخدم، بما في ذلك الأطفال.
+
+---
+
+### 8. حقوقك
 
 لديك الحق في:
-- رفض إذن الموقع (لكن أوقات الصلاة لن تعمل)
-- إيقاف الإشعارات من إعدادات التطبيق
-- حذف جميع بياناتك بحذف التطبيق
+- رفض إذن الموقع (تبقى بقية أقسام التطبيق متاحة، لكن المواقيت والقبلة لن تعمل).
+- إيقاف الأذان أو التذكيرات من إعدادات التطبيق.
+- حذف جميع بياناتك بحذف التطبيق.
 
 ---
 
-### 8. التغييرات على سياسة الخصوصية
+### 9. التغييرات على سياسة الخصوصية
 
-قد نقوم بتحديث هذه السياسة من وقت لآخر. سنخطرك بأي تغييرات عبر تحديث التطبيق.
+قد نحدّث هذه السياسة من وقت لآخر، وسيظهر تاريخ آخر تحديث أعلى هذه الصفحة.
 
 ---
 
-### 9. تواصل معنا
+### 10. تواصل معنا
 
-إذا كان لديك أي أسئلة حول سياسة الخصوصية:
+إذا كان لديك أي سؤال حول سياسة الخصوصية:
 
 - **البريد الإلكتروني:** abdelmajid152@gmail.com
 - **تيليجرام:** @Abdelmajid152
@@ -105,28 +123,30 @@
 
 ## 🇬🇧 Privacy Policy (English)
 
-**Last Updated:** January 8, 2026
+**Last Updated:** October 4, 2026
 
 ### Introduction
 
-Welcome to "Diya AlQalb" app. We respect your privacy and are committed to protecting your personal data. This privacy policy explains how we collect and use information when you use our app.
+Welcome to "Diya AlQalb". We respect your privacy. This policy explains what information the app uses and why. In short: **no accounts, no ads, no tracking or analytics, and we run no servers that receive your data.**
 
 ---
 
-### 1. Information We Collect
+### 1. Information the App Uses
 
-#### a) Geographic Location (Approximate)
-- **What we collect:** Your approximate location (city/region)
-- **Why:** To calculate accurate prayer times and Qibla direction
-- **How:** Using your device's location services
-- **Important notes:**
-  - We do NOT collect precise GPS location
-  - Location is NOT stored on external servers
-  - Location is used locally on your device only
+#### a) Location (Approximate)
+- **What:** Your approximate location only (Android coarse location). We do not request precise location.
+- **Why:** To calculate prayer times, the Qibla direction and the distance to Makkah.
+- **How:** Prayer times and Qibla are calculated **on your device**; your location is not sent to any server.
+- **City name:** The city name is obtained through the operating system's built-in geocoding service (Google on Android, Apple on iOS), subject to that provider's privacy policy.
+- The last known location is saved **on your device only**, so prayer times work offline.
 
-#### b) App Preferences
-- **What we store:** Theme settings (light/dark), notification preferences
-- **Where:** Stored locally on your device only
+#### b) Device Sensors
+- The **compass and motion sensors** are used only to show the Qibla direction. Sensor readings are never stored or sent anywhere.
+
+#### c) App Preferences and Saved Content
+- Theme, adhan and reminder settings, calculation method, selected reciter, last Mushaf page, tasbih and azkar counters.
+- Surahs you choose to download for offline listening.
+- All of this is **stored locally on your device only**.
 
 ---
 
@@ -134,65 +154,81 @@ Welcome to "Diya AlQalb" app. We respect your privacy and are committed to prote
 
 | Information | Usage |
 |-------------|-------|
-| Approximate location | Calculate prayer times and Qibla direction |
-| Notification preferences | Send Azkar reminders at scheduled times |
-| Theme settings | Remember your light/dark mode preference |
+| Approximate location | On-device prayer times and Qibla |
+| Compass and motion sensors | Show the Qibla direction |
+| Adhan and reminder settings | Schedule the adhan and azkar reminders locally |
+| Calculated prayer times | Shown in the home screen widget |
+| Downloaded surahs | Offline Quran listening |
 
 ---
 
-### 3. Third-Party Sharing
+### 3. External Services
 
-**We do NOT share any personal information with third parties.**
+**We do not sell or share any personal information with third parties.**
 
-The app connects to the following services for functional purposes only:
-- **Aladhan API:** To fetch prayer times (only approximate location is sent)
-- **mp3quran.net servers:** To stream Quran recitations
+The app connects to the following services for functional purposes only, **without sending your location or any personal data**:
+- **mp3quran.net:** Reciters list, streaming and downloading recitations.
+- **App store (Google Play / App Store):** To check whether a newer version of the app is available.
+- **The operating system's geocoding service:** To get the city name, as described above.
+
+As with any internet connection, these services may see your device's IP address under their own policies.
 
 ---
 
-### 4. Permissions Required
+### 4. Permissions
 
 | Permission | Reason |
 |------------|--------|
-| Approximate Location | To calculate prayer times and Qibla |
-| Internet | To fetch prayer times and stream audio |
-| Notifications | To send Azkar reminders |
-| Background Service | To play Quran while app is minimized |
+| Approximate location | Prayer times and Qibla |
+| Internet | Stream and download recitations, get the city name |
+| Notifications | Adhan, prayer and azkar reminders |
+| Exact alarms | Play the adhan exactly on time |
+| Run at startup | Reschedule the adhan after the phone restarts |
+| Foreground service / media playback | Keep playing the Quran while the app is minimized |
+| Vibrate and wake lock | Alerts and uninterrupted audio |
+| Motion sensor (iOS) | Show the Qibla direction |
+
+All permissions are optional and can be denied or revoked at any time from your device settings.
 
 ---
 
 ### 5. Data Storage
 
-- All data is stored **locally on your device**
-- We do not use cloud or servers to store your data
-- You can delete all data by uninstalling the app
+- All data is stored **locally on your device**.
+- We do not use any cloud or servers to store your data, and no login is required.
+- Downloaded surahs can be deleted inside the app; uninstalling the app deletes all data.
 
 ---
 
 ### 6. Data Security
 
-- The app does not collect sensitive information
-- No login or personal data is required
-- All external connections are encrypted (HTTPS)
+- The app does not collect sensitive information or ask for personal data.
+- Connections to external services are encrypted (HTTPS).
 
 ---
 
-### 7. Your Rights
+### 7. Children's Privacy
+
+The app is suitable for all ages and does not knowingly collect personal information from anyone, including children.
+
+---
+
+### 8. Your Rights
 
 You have the right to:
-- Deny location permission (prayer times won't work)
-- Disable notifications from app settings
-- Delete all your data by uninstalling the app
+- Deny location permission (the rest of the app still works, but prayer times and Qibla won't).
+- Turn off the adhan or reminders from the app settings.
+- Delete all your data by uninstalling the app.
 
 ---
 
-### 8. Changes to Privacy Policy
+### 9. Changes to This Policy
 
-We may update this policy from time to time. We will notify you of any changes through app updates.
+We may update this policy from time to time; the date of the last update appears at the top of this page.
 
 ---
 
-### 9. Contact Us
+### 10. Contact Us
 
 If you have any questions about this privacy policy:
 
